@@ -1,0 +1,18 @@
+# Zamera (0.1.5+6)
+> Zamera — True-Color Artwork Photography, Pro DSLR Camera & Cinema Video Application by Akarworks.
+
+## What is Zamera?
+Zamera is a professional on-device camera and color science application developed by Akarworks for iOS 17.0+ and Android 10+. Engineered for deterministic reliability, 100% offline processing, and 60 to 120 FPS responsiveness, Zamera provides Art Mode true-color reproduction with a 24-patch ColorChecker CIEDE2000 solver (targeting Delta E00 <= 1.0), manual PASM exposure priority with 1/3-EV stops, 14-bit Bayer RAW and Apple ProRAW capture, and 180-degree shutter-locked Pro Video recording in Apple Log, ProRes 422 HQ, or HLG10. Version 0.1.5+6 introduces the hybrid transparent PNG sticker cutout engine with optional white sticker contour, and a full-screen Pro Media & Sticker Studio featuring A/B split curtain inspection, CIE L*a*b* pixel colorimetry, 64-bin RGB histograms, and an SMPTE cinema video player. Zero personal data is uploaded or tracked.
+
+## Key Pages & Portals
+- [Privacy Policy & KVKK/GDPR/CCPA Disclosure](https://mehmetfethioglu.github.io/zamera-privacy/): Zero-tracking data safety, on-device processing guarantees, and permissions guide.
+- [Direct Privacy URL (HTML)](https://mehmetfethioglu.github.io/zamera-privacy/privacy.html): Direct privacy policy endpoint.
+- [User Support & FAQ](https://mehmetfethioglu.github.io/zamera-privacy/support.html): Contact channel (`theakar@windowslive.com`) and troubleshooting FAQ.
+- [Download Portal](https://mehmetfethioglu.github.io/zamera-privacy/indir.html): iOS TestFlight and Google Play testing links.
+- [Extended AI Knowledge Base](https://mehmetfethioglu.github.io/zamera-privacy/llms-full.txt): Product capabilities, privacy guarantees, and FAQ.
+
+## Contact & Attribution
+- Developer: Akarworks (Mehmet Fethioglu)
+- Support Email: theakar@windowslive.com
+- Portal URL: https://mehmetfethioglu.github.io/zamera-privacy/
+- Languages: tr-TR, en-US
